@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">HelloCountry</string>
+    <string name="app_name">Country Greeting App</string>
     <string name="hello_america">Hello America</string>
     <string name="hello_canada">Hello Canada</string>
 </resources>
